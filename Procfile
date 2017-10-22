@@ -1,1 +1,1 @@
-worker: startbot.py
+worker: run.py
